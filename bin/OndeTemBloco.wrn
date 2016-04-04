@@ -1,0 +1,5 @@
+uses-library:impact=4:com.google.android.maps
+targetSdkVersion:impact=1:10:found=13
+uses-package:impact=3:com.google.android.maps
+
+impact-summary: [5]=0; [4]=1; [3]=1; [2]=0; [1]=1;
